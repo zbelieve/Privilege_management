@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="301e3a72-bfa3-4952-b72a-6b9518bae568" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="heima_ssm" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\study\environment\jarpkg\maven_repository\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../environment/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="F:\study\environment\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1THsf1AnUOg2touWqkQ4AgkkOPG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="hi&#9;null&#9;null&#10;ye&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.8615611" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\study\java\workspace\heima_ssm" />
+      <recent name="F:\study\java\workspace\heima_ssm\heima_ssm_web\src\main\webapp\pages" />
+      <recent name="F:\study\java\workspace\heima_ssm\heima_ssm_web\src\main\webapp" />
+      <recent name="F:\study\java\workspace\heima_ssm\heima_ssm_utils\src\main\java\com\itheima\ssm\utils" />
+      <recent name="F:\study\java\workspace\heima_ssm\heima_ssm_service\src\main\java\com\itheima\ssm\service\impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\study\java\workspace\heima_ssm\heima_ssm_web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.heima-ssm-web">
+    <configuration name="BCryptPasswordEncoderUtils" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Privilege_management.ssm.utils.BCryptPasswordEncoderUtils" />
+      <module name="Privilege_management_utils" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Privilege_management.ssm.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Privilege_management" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Privilege_management" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heima-ssm-web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/heima_ssm_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BCryptPasswordEncoderUtils" />
+      <item itemvalue="Maven.heima-ssm-web" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/play/c1-playjbook" value="PREVIEW" />
+        <entry key="D:/play/c1-playsbook" value="PREVIEW" />
+        <entry key="D:/play/c1play-jbook" value="PREVIEW" />
+        <entry key="D:/play/c1play-sbook" value="PREVIEW" />
+        <entry key="D:/play/first" value="PREVIEW" />
+        <entry key="D:/play/play2-book-chapters-master/chap1/play-sbook" value="PREVIEW" />
+        <entry key="D:/play/play2-book-chapters-master/chap2/play-sbook" value="PREVIEW" />
+        <entry key="D:/play/play2-book-chapters-master/chap3/play-jbook" value="PREVIEW" />
+        <entry key="D:/play/workspace/play2-book-chapters-master/chap1/play-sbook" value="PREVIEW" />
+        <entry key="D:/play/workspace/play2-book-chapters-master/chap1/play-sbook/project" value="PREVIEW" />
+        <entry key="D:/play/workspace/play2-book-chapters-master/chap3/play-jbook" value="PREVIEW" />
+        <entry key="D:/play/workspace/play2-book-chapters-master/chap4/play-jbook" value="PREVIEW" />
+        <entry key="D:/study/hohai/play2-book-chapters-master/play2-book-chapters-master/chap1/play-jbook" value="PREVIEW" />
+        <entry key="D:/workspace/APE/svn/APE/trunk" value="PREVIEW" />
+        <entry key="D:/workspace/NEAN" value="PREVIEW" />
+        <entry key="D:/workspace/NEAN3" value="PREVIEW" />
+        <entry key="D:/workspace/Nean" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\92136\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PASSWORD" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="true" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="false" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="301e3a72-bfa3-4952-b72a-6b9518bae568" name="Default" comment="" />
+      <created>1567948736029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567948736029</updated>
+      <workItem from="1567948737654" duration="6660000" />
+      <workItem from="1568032048304" duration="9063000" />
+      <workItem from="1568806449560" duration="593000" />
+      <workItem from="1568895617626" duration="31617000" />
+      <workItem from="1569413592479" duration="17699000" />
+      <workItem from="1570068577992" duration="12991000" />
+      <workItem from="1570197709027" duration="9432000" />
+      <workItem from="1570262955843" duration="10479000" />
+      <workItem from="1570335206764" duration="8258000" />
+      <workItem from="1570412643785" duration="5749000" />
+      <workItem from="1570427516080" duration="11427000" />
+      <workItem from="1570495259220" duration="10408000" />
+      <workItem from="1570537537599" duration="24631000" />
+      <workItem from="1570795745328" duration="4073000" />
+      <workItem from="1570929174796" duration="2141000" />
+      <workItem from="1571014955742" duration="1676000" />
+      <workItem from="1571016771905" duration="7900000" />
+      <workItem from="1571047221289" duration="2993000" />
+      <workItem from="1571843784960" duration="442000" />
+      <workItem from="1571844738407" duration="253000" />
+      <workItem from="1573128502712" duration="1984000" />
+      <workItem from="1573302434496" duration="3018000" />
+      <workItem from="1573320221385" duration="134000" />
+      <workItem from="1574173087068" duration="87000" />
+      <workItem from="1575941382256" duration="983000" />
+      <workItem from="1575943515183" duration="253000" />
+      <workItem from="1578842270885" duration="210000" />
+      <workItem from="1578913950929" duration="614000" />
+      <workItem from="1579426114518" duration="594000" />
+      <workItem from="1580365707085" duration="1223000" />
+      <workItem from="1580462056435" duration="728000" />
+      <workItem from="1580462837758" duration="904000" />
+      <workItem from="1580527715883" duration="596000" />
+      <workItem from="1580709716925" duration="601000" />
+      <workItem from="1582372914426" duration="646000" />
+      <workItem from="1582374805111" duration="1673000" />
+      <workItem from="1582470290164" duration="124000" />
+      <workItem from="1587023589670" duration="1061000" />
+      <workItem from="1587028657377" duration="1152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1587023891910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587023891910" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1587023621832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587023621832" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1587029191137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587029191137" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="userInfo" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>userInfo</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

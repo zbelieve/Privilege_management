@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Privilege_management_service" />
+        <module name="Privilege_management_web" />
+        <module name="Privilege_management_ssm_domain" />
+        <module name="Privilege_management_domain" />
+        <module name="Privilege_management_ssm_dao" />
+        <module name="Privilege_management_ssm_service" />
+        <module name="Privilege_management_dao" />
+        <module name="Privilege_management_ssm_utils" />
+        <module name="Privilege_management_utils" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
